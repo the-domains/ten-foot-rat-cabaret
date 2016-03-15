@@ -4,7 +4,7 @@
         <description><![CDATA[Ten-Foot Rat Cabaret]]></description>
         <link>https://thegrid.ai/ten-foot-rat-cabaret/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 02:37:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2016 02:42:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ten-foot-rat-cabaret/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/ten-foot-rat-cabaret/438f039b-1d64-4326-839a-0ca7a1d36cf5/index.html</link>
             <guid isPermaLink="false">438f039b-1d64-4326-839a-0ca7a1d36cf5</guid>
             <pubDate>Tue, 15 Mar 2016 02:37:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Ten-Foot Rat Cabaret</p>]]></description>
+            <link>https://thegrid.ai/ten-foot-rat-cabaret/ten-foot-rat-cabaret/index.html</link>
+            <guid isPermaLink="false">11fac7c8-49c6-405a-83fc-becdfb4d9493</guid>
+            <pubDate>Tue, 15 Mar 2016 02:41:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
