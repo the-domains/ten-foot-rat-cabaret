@@ -1,7 +1,4 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+favicon: null
 opengraph:
   image: null
   type: null
@@ -12,29 +9,32 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.9339
-cta:
-  bucket: null
-  version: null
-  domain: null
+    permalink:
+      path: '/:title/'
+purpose: []
+typography_spectrum: 0.1627282
 color:
-  saturation: 0.6929505665320903
+  saturation: 0.6929505
   brandStrength: 0.5505139206070453
-  rhythmicContrast: 0.02752588060684502
+  lightness: 0.6765204
   brandColors:
     - '#71A7FE'
     - '#399AE7'
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  lightness: 0.6765204111579806
-purpose: []
-favicon: null
-name: Ten-Foot Rat Cabaret
-typography_spectrum: 0.1550956764258444
+  rhythmicContrast: 0.3281417
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+layout_spectrum: 0.9339
+name: Ten Foot Rat Cabaret
